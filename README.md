@@ -16,6 +16,3 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 </p>
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-petrisor-35194419a/)
