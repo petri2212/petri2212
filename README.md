@@ -3,7 +3,7 @@
 Currently I'm doing a bachelor's degree in computer science and engineering at University of bergamo. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petri2212&count_private=true&show_icons=true&theme=synthwave)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petri2212&layout=compact&theme=transparent&hide_border=true" />
+
 
 
 ---
