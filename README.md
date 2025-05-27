@@ -10,7 +10,7 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ### 🧱 Framework e Librerie
 
-![My Skills](https://skillicons.dev/icons?i=react,next,django,flutter,spring&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,next,django,flutter,spring,jquery&theme=dark)
 
 ### 🗃️ Database
 
@@ -18,7 +18,7 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ### ☁️ DevOps e Altri Strumenti
 
-![My Skills](https://skillicons.dev/icons?i=git,docker,linux,aws,html,css,tailwind&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,docker,linux,aws,html,css,tailwind,uml&theme=dark)
   
 ---
 
