@@ -25,6 +25,6 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 ## 📈 Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petri2212&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=github_dark&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petri2212&layout=compact&theme=github_dark&hide=html,css)
 
 > “:)” 
