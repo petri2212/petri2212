@@ -26,4 +26,4 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petri2212&show_icons=true&theme=github_dark)
 
-> “essere te stesso” 
+> “:)” 
