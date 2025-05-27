@@ -2,25 +2,28 @@
 ## 🚀 About Me
 Currently I'm doing a bachelor's degree in computer science and engineering at University of bergamo. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=petri2212&count_private=true&show_icons=true&theme=synthwave)
-
-
-
 ---
 
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="Mongo" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs"  alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Php" alt="Php" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+### 🔤 Linguaggi di Programmazione
 
-</p>
+[My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,python,php,r&theme=dark)
 
+### 🧱 Framework e Librerie
+
+![My Skills](https://skillicons.dev/icons?i=react,next,django,flutter,spring&theme=dark)
+
+### 🗃️ Database
+
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongo,cassandra&theme=dark)
+
+### ☁️ DevOps e Altri Strumenti
+
+![My Skills](https://skillicons.dev/icons?i=git,docker,linux,aws&theme=dark)
+  
+---
+
+## 📈 Stats 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petri2212&show_icons=true&theme=github_dark)
+
+> “essere te stesso” 
