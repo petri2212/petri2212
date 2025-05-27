@@ -6,7 +6,7 @@ Currently I'm doing a bachelor's degree in computer science and engineering at U
 
 ### 🔤 Linguaggi di Programmazione
 
-[My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,python,php,r&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,python,php,r&theme=dark)
 
 ### 🧱 Framework e Librerie
 
