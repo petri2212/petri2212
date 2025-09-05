@@ -1,7 +1,9 @@
-# Hi, I'm Petrisor Andrei! 👋
-## 🚀 About Me
-Currently I'm doing a bachelor's degree in computer science and engineering at University of bergamo. 
-
+# Hi, I'm Petrisor Andrei!
+## About Me
+I’m currently pursuing a **Master’s degree in Computer Engineering** at the University of Bergamo.
+I enjoy learning and, above all, **putting knowledge into practice**.
+I’m passionate about technology and love to **understand how things work in detail**.
+In my free time, I enjoy reading, doing sports, and exploring new activities outside my usual routine.
 ---
 
 ### 🔤 Linguaggi di Programmazione
