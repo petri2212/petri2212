@@ -1,5 +1,6 @@
 # Hi, I'm Petrisor Andrei!
-## About Me <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/34bae680-e0e5-4d75-a136-ac33544a87fa" />
+## About Me <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/c106d496-163b-4e4d-98ae-6f5a18660ee3" />
+
 
 I’m currently pursuing a **Master’s degree in Computer Engineering** at the University of Bergamo.  
 I enjoy learning and, above all, **putting knowledge into practice**.  
