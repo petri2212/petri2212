@@ -1,9 +1,9 @@
 # Hi, I'm Petrisor Andrei!
 ## About Me
-I’m currently pursuing a **Master’s degree in Computer Engineering** at the University of Bergamo.
-I enjoy learning and, above all, **putting knowledge into practice**.
-I’m passionate about technology and love to **understand how things work in detail**.
-In my free time, I enjoy reading, doing sports, and exploring new activities outside my usual routine.
+I’m currently pursuing a **Master’s degree in Computer Engineering** at the University of Bergamo.<br>
+I enjoy learning and, above all, **putting knowledge into practice**.<br>
+I’m passionate about technology and love to **understand how things work in detail**.<br>
+In my free time, I enjoy reading, doing sports, and exploring new activities outside my usual routine.<br>
 ---
 
 ### 🔤 Linguaggi di Programmazione
