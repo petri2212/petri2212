@@ -29,7 +29,8 @@ In my free time, I enjoy reading, doing sports, and exploring new activities out
   
 ---
 
-## 📈 Stats 
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/97b5db35-04a9-4c64-8f6f-0342ecdaae87" />
+ Stats 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petri2212&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petri2212&layout=compact&theme=dracula&hide=html,css)
