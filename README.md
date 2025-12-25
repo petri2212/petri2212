@@ -10,8 +10,7 @@ I’m passionate about technology and love to **understand how things work in de
 In my free time, I enjoy reading, doing sports, and exploring new activities outside my usual routine.  
 
 ---
-[comment]: <> (This is a comment, it will not be included)
-### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/31756df1-369c-44f6-ae55-4ec7a659f239" /> Programming Languages
+[comment]: <> (### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/31756df1-369c-44f6-ae55-4ec7a659f239" /> Programming Languages
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,rust,javascript,typescript,python,php,r&theme=dark)
 
@@ -29,8 +28,9 @@ In my free time, I enjoy reading, doing sports, and exploring new activities out
   
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/97b5db35-04a9-4c64-8f6f-0342ecdaae87" /> Stats 
+)
 
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/97b5db35-04a9-4c64-8f6f-0342ecdaae87" /> Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petri2212&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petri2212&layout=compact&theme=dracula&hide=html,css)
 
