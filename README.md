@@ -1,5 +1,3 @@
-# Hi, I'm Petrisor Andrei! <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/09e4d38c-bae2-417f-8409-88b63f13c33f" />
-
 ## About Me <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ae19576d-f164-4f47-8a0b-50ba9d93be75" />
 
 
